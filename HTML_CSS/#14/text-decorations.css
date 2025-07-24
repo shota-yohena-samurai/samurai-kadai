@@ -1,0 +1,65 @@
+.decoration {
+    /* 文字サイズ */
+    font-size: 48px;
+
+    /* キーワードで色指定 */
+    color: red;
+
+    /* カラーコードで色指定 */
+    color: #ff0000;
+
+    /* RGBで色指定 */
+    color: rgb(255, 0, 0);
+
+    /* 太字 */
+    /* font-weight: bold; */
+
+    /* 文字フォント */
+    font-family: "游ゴシック体", "YuGothic", "游ゴシック", "Yu Gothic";
+
+    /* 斜体 */
+    font-style: italic;
+
+    /* 行間 */
+    line-height: 4.5;
+
+    /* 字間 */
+    letter-spacing: 1.5em;
+
+    /* 下線 */
+    text-decoration: underline;
+
+    /* 取消線 */
+    text-decoration: line-through;
+
+    /* 枠線（実線） */
+    border: solid 3px red;
+
+    /* 枠線（点線） */
+    border: dotted 3px red;
+
+    /* 枠線（破線） */
+    border: dashed 3px red;
+
+    /* 枠線（二重線） */
+    border: double 5px red;
+
+    /* 枠線（一部） */
+    border-top: solid 3px red;
+    border-bottom: dotted 3px blue;
+    border-left: dashed 3px green;
+    border-right: double 3px gray;
+
+    /* 背景色 */
+    background-color: purple;
+
+    /* 影 */
+    text-shadow: 1px 1px 2px gray;
+
+    /* 文字位置 */
+    text-align: center;
+}
+
+.text-bold {
+    font-weight: bold;
+}
