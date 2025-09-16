@@ -1,0 +1,23 @@
+/* p {
+    border: solid 5px yellow;
+    padding: 10px;
+    margin: 10px;
+} */
+#first-paragraph {
+    /* margin: 100px; */
+    padding: 20px 15px 10px 5px;
+    margin: 15px 10px 5px 0px;
+    border: solid 5px yellow;
+}
+#second-paragraph {
+    /* padding: 100px; */
+    /* padding: 10px;
+    margin: 10px; */
+    /* padding: 20px 10px;
+    margin: 40px 20px; */
+    border: solid 5px yellow;
+    padding-left: 20px;
+    padding-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
